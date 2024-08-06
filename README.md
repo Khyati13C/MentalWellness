@@ -48,10 +48,7 @@ Drop your Email here: [Submit]
 ---
 
 ### *Contact Us*
-- *Location:* Ajmer, Rajasthan
-- *Email:* mentalwellness@gmail.com
-- *Call:* 90000-60000
---
+
 
 © 2024 MentalWellness
 
