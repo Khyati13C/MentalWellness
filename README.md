@@ -57,7 +57,6 @@ Drop your Email here: [Submit]
 
 ---
 
-This outline can be used as a template for a website or chatbot service focused on mental health and well-being. Let me know if you need further assistance or any specific details added!
 
 
 
