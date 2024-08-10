@@ -42,12 +42,62 @@ At MentalWellness, we believe in the importance of mental health care as much as
 - About Us
 
 
+
 ### *Subscribe to Our Newsletter*
 Drop your Email here: [Submit]
 
 ---
 
 ### *Contact Us*
+
+<h1> Contributors </h1>
+
+<table>  
+    <td align="center">
+        <a href="https://github.com/Khyati13C">
+            <img src="https://github.com/github.png?size=150"  alt="Khyati Chattree"/>
+            <br />
+            <sub><b>Khyati Chattree</b></sub>
+        </a>
+    </td>
+     <td align="center">
+        <a href="https://github.com/SejalPramodKumar>
+            <img src="https://github.com/github.png?size=150"  alt="SejalPramodKumar"/>
+            <br />
+            <sub><b>Sejal Pramod Kumar</b></sub>
+        </a>
+    </td>
+     <td align="center">
+        <a href="https://github.com/sunitachoudhary0280">
+            <img src="https://github.com/sunitachoudhary0280.png?size=150"  alt="sunitachoudhary0280"/>
+            <br />
+            <sub><b>Sunita Choudhary</b></sub>
+        </a>
+    </td>
+      <td align="center">
+        <a href="https://github.com/Mohikarwt">
+            <img src="https://github.com/Mohikarwt.png?size=150"  alt="Mohikarwt"/>
+            <br />
+            <sub><b>Mohika Rawat</b></sub>
+        </a>
+    </td>
+     <td align="center">
+        <a href="https://github.com/shreya123-abc">
+            <img src="https://github.com/shreya123-abc.png?size=150"  alt="shreya123-abc"/>
+            <br />
+            <sub><b>Shreya Gupta</b></sub>
+        </a>
+    </td>
+<!--     <td align="center">
+        <a href="https://github.com/YogitaBhagatni">
+            <img src="https://github.com/github.png?size=150"  alt="YogitaBhagatni"/>
+            <br />
+            <sub><b>Shreya</b></sub>
+        </a>
+    </td> -->
+    
+
+<table>
 
 
 © 2024 MentalWellness
