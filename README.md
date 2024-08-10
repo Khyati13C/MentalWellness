@@ -49,6 +49,9 @@ Drop your Email here: [Submit]
 ---
 
 ### *Contact Us*
+© 2024 MentalWellness
+
+---
 
 <h1> Contributors </h1>
 
@@ -100,9 +103,7 @@ Drop your Email here: [Submit]
 <table>
 
 
-© 2024 MentalWellness
 
----
 
 
 
