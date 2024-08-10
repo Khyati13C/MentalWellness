@@ -65,7 +65,7 @@ Drop your Email here: [Submit]
     </td>
      <td align="center">
         <a href="https://github.com/SejalPramodKumar">
-            <img src="https://github.com/github.png?size=150"  alt="Sejal Pramod Kumar"/>
+            <img src="https://github.com/SejalPramodKumar.png?size=150"  alt="Sejal Pramod Kumar"/>
             <br />
             <sub><b>Sejal Pramod Kumar</b></sub>
         </a>
