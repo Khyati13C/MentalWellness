@@ -91,13 +91,13 @@ Drop your Email here: [Submit]
             <sub><b>Shreya Gupta</b></sub>
         </a>
     </td>
-<!--     <td align="center">
-        <a href="https://github.com/YogitaBhagatni">
-            <img src="https://github.com/github.png?size=150"  alt="YogitaBhagatni"/>
+    <td align="center">
+        <a href="https://github.com/shrey-111">
+            <img src="https://github.com/shrey-111.png?size=150"  alt="shrey-111"/>
             <br />
             <sub><b>Shreya</b></sub>
         </a>
-    </td> -->
+    </td>
     
 
 <table>
