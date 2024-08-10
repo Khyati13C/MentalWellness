@@ -61,8 +61,8 @@ Drop your Email here: [Submit]
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/SejalPramodKumar>
-            <img src="https://github.com/github.png?size=150"  alt="SejalPramodKumar"/>
+        <a href="https://github.com/SejalPramodKumar">
+            <img src="https://github.com/github.png?size=150"  alt="Sejal Pramod Kumar"/>
             <br />
             <sub><b>Sejal Pramod Kumar</b></sub>
         </a>
@@ -76,14 +76,14 @@ Drop your Email here: [Submit]
     </td>
       <td align="center">
         <a href="https://github.com/Mohikarwt">
-            <img src="https://github.com/Mohikarwt.png?size=150"  alt="Mohikarwt"/>
+            <img src="https://github.com/github.png?size=150"  alt="Mohikarwt"/>
             <br />
             <sub><b>Mohika Rawat</b></sub>
         </a>
     </td>
      <td align="center">
         <a href="https://github.com/shreya123-abc">
-            <img src="https://github.com/shreya123-abc.png?size=150"  alt="shreya123-abc"/>
+            <img src="https://github.com/github.png?size=150"  alt="shreya123-abc"/>
             <br />
             <sub><b>Shreya Gupta</b></sub>
         </a>
